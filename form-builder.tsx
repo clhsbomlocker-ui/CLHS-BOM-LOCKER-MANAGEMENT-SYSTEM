@@ -367,7 +367,7 @@ export function FormBuilder() {
             <CardDescription>
               {view === 'edit' 
                 ? 'Update your existing form configuration' 
-                : 'Build a custom form to collect student information for locker assignments'
+                : 'Build a custom form to collect student information for locker assignments.'
               }
             </CardDescription>
           </div>
