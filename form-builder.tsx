@@ -226,7 +226,7 @@ export function FormBuilder() {
   const resetForm = () => {
     setFormConfig({
       title: "Student Locker Registration",
-      description: "Please fill out this form to register for a locker assignment.",
+      description: "Please fill out this form to register for a locker assignment",
       isActive: true,
       fields: [
         { id: 'name', label: 'Student Name', type: 'text', required: true },
