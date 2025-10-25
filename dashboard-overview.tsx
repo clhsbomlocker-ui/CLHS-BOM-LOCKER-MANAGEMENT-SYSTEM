@@ -13,7 +13,7 @@ export function DashboardOverview({ onTabChange }: DashboardOverviewProps) {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">Dashboard Overview</h2>
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">Locker Overview</h2>
         <p className="text-gray-600">CLHS-BOM-LOCKER-MANAGEMENT-SYSTEM</p>
       </div>
 
@@ -30,4 +30,5 @@ export function DashboardOverview({ onTabChange }: DashboardOverviewProps) {
     </div>
   )
 }
+
 
